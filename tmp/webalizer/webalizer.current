@@ -1,0 +1,524 @@
+# Webalizer V2.23-08 Incremental Data - 06/29/2026 17:16:53
+2026 6 29 17 16 53
+180 77 98 18 4 33 3248835 62 49 0
+2 1 33 1 29
+8 2 19814 7 2 2
+41 21 2256635 10 5 2
+8 1 13091 8 1 1
+6 0 4776 6 0 0
+7 2 54260 6 2 2
+5 1 10703 5 1 1
+6 0 4776 6 0 0
+11 2 22202 11 2 2
+6 3 95429 6 3 3
+7 5 24149 7 5 5
+4 2 51855 4 3 3
+4 1 45149 4 1 1
+1 0 796 1 0 0
+21 7 239851 9 7 3
+4 2 51872 4 2 2
+2 1 8298 2 2 2
+3 1 9094 3 2 2
+1 1 7519 1 1 1
+5 2 17409 5 3 3
+7 3 25741 5 4 4
+15 13 169022 4 9 3
+3 2 51076 3 2 2
+0 0 0 0 0 0
+1 1 7519 1 1 1
+2 2 42761 2 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 15038 2 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+6 1 11499 1
+18 1 20915 1
+1 0 796 0
+4 1 45149 1
+2 1 8298 2
+6 1 11499 1
+6 3 60187 3
+7 0 5572 0
+6 4 66910 4
+5 2 52651 3
+5 2 52668 2
+6 1 11499 1
+10 2 56648 3
+10 7 117109 3
+6 3 24945 3
+11 8 70118 9
+6 1 46741 1
+4 2 16630 2
+6 4 16630 4
+8 6 215397 6
+37 23 2302139 7
+5 1 10686 2
+3 2 15834 2
+2 1 8315 1
+0
+0
+0
+77
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+91
+0
+12
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/js/plugins.js
+0 2 8026309749768269112 116436 0 0
+/images/koltuk yıkama 1.webp
+0 1 94517684191744 42388 0 0
+/images/scrolldown-circle-text.svg
+0 1 0 10591 0 0
+/images/araba 2.jpg
+0 1 0 99392 0 0
+/images/ana foto 2.jpg
+0 1 0 13841 0 0
+/images/Koltuk yıkama 2.webp
+0 1 0 31110 0 0
+/images/logoson.png
+0 1 0 62201 0 0
+/images/stor perde 1.jpeg
+0 1 0 230212 0 0
+/js/main.js
+0 2 0 12574 0 0
+/images/Ekran görüntüsü 2025-10-25 012719.png
+0 1 0 542056 0 0
+/images/stor perde 2.jpg
+0 1 0 80592 0 0
+/
+0 56 0 969974 48 3
+/css/styles.css
+0 2 0 39284 0 0
+/images/araba 1.jpg
+0 1 0 12373 0 0
+/images/ana foto 1.jpg
+0 1 0 437168 0 0
+/images/Halı yıkama 1.jpg
+0 1 0 391028 0 0
+/css/vendor.css
+0 2 0 16034 0 0
+/images/Halı yıkama 2.avif
+0 1 0 59797 0 0
+# End Of Table - urls
+# -sites- (monthly)
+206.189.14.182
+0 8 7 61024 1 1782054894
+/
+msnbot-207-46-13-155.search.msn.com
+0 3 0 2388 0 0
+-
+msnbot-40-77-167-32.search.msn.com
+0 1 0 796 0 0
+-
+192.36.109.120
+0 1 1 7519 1 1781696801
+/
+msnbot-40-77-167-121.search.msn.com
+0 1 0 796 0 0
+-
+node-07.domainscores.net
+0 1 1 0 1 1782415528
+/
+msnbot-207-46-13-6.search.msn.com
+0 1 0 796 0 0
+-
+192.165.45.205
+0 1 0 796 0 0
+-
+msnbot-207-46-13-31.search.msn.com
+0 1 0 796 0 0
+-
+msnbot-52-167-144-190.search.msn.com
+0 1 0 796 0 0
+-
+msnbot-40-77-167-53.search.msn.com
+0 1 0 779 1 1781585199
+/
+msnbot-52-167-144-140.search.msn.com
+0 1 0 796 0 0
+-
+floating-self-ip-address-01.register.it
+0 4 3 35974 1 1782049412
+/
+4.209.236.21
+0 1 1 7519 1 1781191852
+/
+192.36.109.89
+0 1 1 7519 1 1781584896
+/
+192.71.142.40
+0 1 1 7519 1 1781081402
+/
+msnbot-40-77-167-15.search.msn.com
+0 1 0 779 1 1781731788
+/
+msnbot-207-46-13-92.search.msn.com
+0 1 0 796 0 0
+-
+msnbot-157-55-39-14.search.msn.com
+0 2 0 1575 1 1781169277
+/
+206.189.102.105
+0 1 1 7519 1 1782294435
+/
+msnbot-40-77-179-201.search.msn.com
+0 4 0 3116 0 0
+-
+msnbot-52-167-144-232.search.msn.com
+0 3 0 2354 0 0
+-
+198.235.24.162
+0 1 1 42761 1 1782124565
+/
+178.62.29.242
+0 1 1 7519 1 1780756421
+/
+104.238.159.195.vultrusercontent.com
+0 1 1 7519 1 1781476275
+/
+msnbot-157-55-39-13.search.msn.com
+0 1 0 796 0 0
+-
+192.36.109.75
+0 1 1 7519 1 1780962448
+/
+msnbot-157-55-39-200.search.msn.com
+0 1 0 796 0 0
+-
+aei2s.seruhah.com
+0 1 1 7519 1 1781443877
+/
+msnbot-207-46-13-168.search.msn.com
+0 2 0 1592 0 0
+-
+msnbot-40-77-167-71.search.msn.com
+0 1 0 796 0 0
+-
+msnbot-207-46-13-87.search.msn.com
+0 1 0 796 0 0
+-
+msnbot-40-77-167-230.search.msn.com
+0 1 0 796 0 0
+-
+msnbot-207-46-13-126.search.msn.com
+0 2 0 1592 0 0
+-
+192.36.121.172
+0 1 1 7519 1 1782090816
+/
+93.158.127.79
+0 1 1 7519 1 1780949866
+/
+msnbot-157-55-39-205.search.msn.com
+0 1 0 796 0 0
+-
+crawl-144-217-135-248.dataproviderbot.com
+0 18 18 2112432 1 1780431947
+/
+msnbot-207-46-13-54.search.msn.com
+0 1 0 796 0 0
+-
+msnbot-52-167-144-139.search.msn.com
+0 1 0 796 0 0
+-
+mwww02.turhost.com
+0 3 3 128283 3 1782357555
+/
+msnbot-207-46-13-157.search.msn.com
+0 1 0 796 0 0
+-
+msnbot-207-46-13-153.search.msn.com
+0 2 0 1592 0 0
+-
+185.12.248.5
+0 1 1 7519 1 1781081421
+/
+ec2-54-92-168-141.compute-1.amazonaws.com
+0 1 1 7519 1 1782753413
+/
+msnbot-207-46-13-130.search.msn.com
+0 1 0 796 0 0
+-
+ec2-34-249-190-13.eu-west-1.compute.amazonaws.com
+0 1 1 42761 1 1781008392
+/
+msnbot-157-55-39-61.search.msn.com
+0 2 0 1592 0 0
+-
+167.172.53.122
+0 1 1 7519 1 1781530925
+/
+ec2-100-55-69-173.compute-1.amazonaws.com
+0 1 1 7519 1 1780682158
+/
+206.189.60.218
+0 1 1 7519 1 1781079117
+/
+msnbot-157-55-39-195.search.msn.com
+0 2 0 1592 0 0
+-
+msnbot-157-55-39-194.search.msn.com
+0 3 0 2388 0 0
+-
+msnbot-40-77-167-255.search.msn.com
+0 1 0 796 0 0
+-
+ns3113919.ip-54-38-176.eu
+0 1 1 0 1 1781115923
+/
+msnbot-40-77-167-78.search.msn.com
+0 1 0 796 0 0
+-
+vps2402447.fastwebserver.de
+0 1 1 7519 1 1781995204
+/
+192.36.109.83
+0 1 1 7519 1 1780275203
+/
+crawl-149-56-150-217.dataproviderbot.com
+0 15 3 137835 1 1780431932
+/
+msnbot-40-77-167-93.search.msn.com
+0 11 0 8756 0 0
+-
+floating-self-ip-address-02.register.it
+0 2 2 64505 0 0
+-
+msnbot-157-55-39-197.search.msn.com
+0 1 0 796 0 0
+-
+146.190.236.199
+0 1 1 7519 1 1781965060
+/
+msnbot-40-77-167-219.search.msn.com
+0 1 0 796 0 0
+-
+msnbot-52-167-144-237.search.msn.com
+0 1 0 796 0 0
+-
+msnbot-157-55-39-59.search.msn.com
+0 1 0 796 0 0
+-
+msnbot-52-167-144-187.search.msn.com
+0 1 0 796 0 0
+-
+msnbot-40-77-167-151.search.msn.com
+0 1 0 779 1 1781881514
+/
+198.235.24.24
+0 1 1 42761 1 1781297098
+/
+64.225.26.63
+0 6 5 214601 1 1781466362
+/
+199.244.88.227
+0 1 1 7519 1 1780511424
+/
+msnbot-157-55-39-192.search.msn.com
+0 1 0 796 0 0
+-
+ec2-54-212-192-216.us-west-2.compute.amazonaws.com
+0 1 1 42761 1 1781195251
+/
+185.12.148.78
+0 1 0 796 0 0
+-
+185.12.250.58
+0 1 0 796 0 0
+-
+msnbot-52-167-144-222.search.msn.com
+0 1 0 796 0 0
+-
+msnbot-40-77-167-51.search.msn.com
+0 1 0 796 0 0
+-
+msnbot-52-167-144-231.search.msn.com
+0 2 0 1558 0 0
+-
+msnbot-52-167-144-211.search.msn.com
+0 1 0 796 0 0
+-
+msnbot-40-77-167-22.search.msn.com
+0 2 0 1592 1 1781958231
+-
+ec2-44-222-153-139.compute-1.amazonaws.com
+0 1 1 42761 1 1780998615
+/
+ec2-32-195-47-37.compute-1.amazonaws.com
+0 3 1 9111 1 1781959914
+/
+msnbot-157-55-39-57.search.msn.com
+0 1 0 796 0 0
+-
+48.192.92.27
+0 1 1 7519 1 1781892566
+/
+msnbot-40-77-167-132.search.msn.com
+0 1 0 796 0 0
+-
+137.184.118.17
+0 1 1 7519 1 1782741980
+/
+msnbot-207-46-13-102.search.msn.com
+0 1 0 796 0 0
+-
+192.36.109.82
+0 1 1 7519 1 1782021683
+/
+msnbot-52-167-144-171.search.msn.com
+0 1 0 796 0 0
+-
+msnbot-207-46-13-17.search.msn.com
+0 1 0 796 0 0
+-
+msnbot-207-46-13-64.search.msn.com
+0 3 0 2388 0 0
+-
+msnbot-40-77-167-158.search.msn.com
+0 1 0 796 0 0
+-
+ec2-13-61-100-187.eu-north-1.compute.amazonaws.com
+0 2 2 15038 2 1781902854
+/
+192.36.109.102
+0 1 1 7519 1 1780987244
+/
+164.90.174.8
+0 1 1 7519 1 1780309854
+/
+msnbot-207-46-13-141.search.msn.com
+0 2 0 1592 0 0
+-
+msnbot-40-77-167-77.search.msn.com
+0 1 0 796 0 0
+-
+ns3978900.ip-54-38-248.eu
+0 1 1 0 1 1781116275
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+ec2-54-92-168-141.compute-1.amazonaws.com
+0 1 1 7519 1 1782753413
+/
+137.184.118.17
+0 1 1 7519 1 1782741980
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://tekintemizlik.com.tr/
+0 12
+- (Direct Request)
+0 151
+http://www.tekintemizlik.com.tr/
+0 16
+http://www.tekintemizlik.com.tr/css/styles.css
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; Android 10; SM-G981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/136.0.0.
+0 8
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+0 6
+Mozilla/5.0 (compatible; Dataprovider.com)
+0 32
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Mobile/15E14
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 iubenda
+0 7
+PragmaticSecurity-Scanner/2.0 (+https://www.domainscores.net/headers; check your domain security free)
+0 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115
+0 1
+Go-http-client/1.1
+0 3
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.19
+0 75
+Mozilla/5.0 (NextF-Detector)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.1
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6) Gecko/20040614 Firefox/0.8
+0 1
+node
+0 1
+Mozilla/5.0 (compatible; DomainScores/2.1; +https://www.domainscores.net/headers)
+0 1
+Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.3
+0 2
+Mozilla/5.0 (Linux; Android 10; ONEPLUS A5010) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+0 5
+Wget/1.25.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Viewer/99.9.8
+0 2
+Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-A415F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/23.0 Chrome/115.0.0.0
+0 2
+Mozilla/5.0 (Android 14; Mobile; rv:123.0) Gecko/123.0 Firefox/123
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
